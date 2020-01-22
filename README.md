@@ -1,6 +1,6 @@
-# Build A Group-Chat App in 30 Lines Using Node.js
+#A Group-Chat App in 30  Node.js
 
-A simple and (hopefully) to-the-point tutorial to build your first group-chat application using Node.js in less than 30 lines of code.
+Original Project: https://github.com/dkhd/node-group-chat
 
 ## Running the program
 
