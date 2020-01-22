@@ -1,0 +1,9 @@
+{
+"accessURL": "",
+"cussFilter": true,
+"enableBot": true,
+"prefix": "bt!",
+"logger": true,
+"port": 8080,
+"password": "[REDACTED]"
+}

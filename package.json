@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-chat",
+  "version": "1.0.0",
+  "description": "A simple group chat built using Node.js and Socket.io - Added on bot functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Hershraj N. and Diky Hadna",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "edit-json-file": "^1.3.1",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "pkg": "^4.4.0",
+    "random-puppy": "^1.1.0",
+    "read-json-file": "^1.0.1",
+    "socket.io": "^2.3.0"
+  }
+}
