@@ -1,4 +1,4 @@
-# A Group-Chat App in 30  Node.js
+# A Group-Chat App in Node.js
 
 Original Project: https://github.com/dkhd/node-group-chat
 
